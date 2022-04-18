@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Temnui
 - 👀 I’m interested in JavaScript, Node.js CSS/HTML, React, Electron. And UE as hobby
-- 🌱 I’m currently learning JavaScript, React.
+- 🌱 I’m currently learning JavaScript, React, brightScript.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me temnui@gmail.com
 
